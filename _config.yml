@@ -1,0 +1,8 @@
+title: EGWork
+description: "Consultoria em Tecnologia da Informacao"
+baseurl: ""
+url: "https://egwork.com.br"
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
