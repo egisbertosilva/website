@@ -3,21 +3,29 @@ layout: default
 title: Home
 ---
 
-# Welcome to EGWork
+# EGWork
 
-Consultoria em Tecnologia da Informacao
+Consultoria em Tecnologia da Informação
 
-## About Us
+## Principais Trabalhos Executados
 
-We provide technology consulting services to help businesses grow and succeed in the digital world.
+### Nugo
+Solução completa de observabilidade e monitoramento para ambientes de alta complexidade, desenvolvida para atender as necessidades específicas de empresas e órgãos governamentais.
 
-## Services
+### Farmácias App
+Aplicativo mobile desenvolvido para gestão de farmácias, oferecendo funcionalidades completas de controle de estoque, vendas e relacionamento com clientes.
 
-- Technology Consulting
-- Digital Transformation
-- Software Development
-- IT Infrastructure
+### IASIS
+Sistema integrado de gestão desenvolvido para otimizar processos internos e melhorar a eficiência operacional de organizações de grande porte.
 
-## Contact
+## Mercado Alvo
 
-Get in touch with us to discuss your technology needs.
+### Empresas e Órgãos do Governo Federal
+Especializamo-nos em atender empresas e órgãos do governo federal que buscam soluções de **Observabilidade** e **Fábrica de Software** para atender suas demandas internas. Nossa experiência abrange:
+
+- Desenvolvimento de soluções customizadas
+- Implementação de ferramentas de observabilidade
+- Criação de fábricas de software internas
+- Consultoria em transformação digital
+- Suporte técnico especializado
+

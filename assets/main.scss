@@ -1,0 +1,34 @@
+---
+---
+
+@import "minima";
+
+/* Custom styles for navigation */
+.site-nav {
+  .trigger {
+    display: flex;
+    gap: 20px;
+    
+    .page-link {
+      color: #111;
+      text-decoration: none;
+      font-weight: 500;
+      padding: 5px 10px;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+      
+      &:hover {
+        background-color: #f0f0f0;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+/* Responsive navigation */
+@media screen and (max-width: 600px) {
+  .site-nav .trigger {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
