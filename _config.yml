@@ -11,3 +11,26 @@ theme: minima
 
 plugins:
   - jekyll-admin
+
+# Collections for Jekyll Admin
+collections:
+  includes:
+    output: false
+  layouts:
+    output: false
+  assets:
+    output: false
+  _assets:
+    output: false
+
+# Jekyll Admin Configuration
+jekyll_admin:
+  collections:
+    includes:
+      output: false
+    layouts:
+      output: false
+    assets:
+      output: false
+    _assets:
+      output: false
