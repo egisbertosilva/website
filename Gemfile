@@ -3,6 +3,9 @@ source "https://rubygems.org"
 # GitHub Pages (includes Jekyll and other dependencies)
 gem "github-pages", group: :jekyll_plugins
 
+# Jekyll Admin
+gem "jekyll-admin", group: :jekyll_plugins
+
 # Plugins
 gem "jekyll-feed", "~> 0.12"
 gem "jekyll-sitemap"
