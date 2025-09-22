@@ -20,8 +20,6 @@ collections:
     output: false
   assets:
     output: false
-  _assets:
-    output: false
 
 # Jekyll Admin Configuration
 jekyll_admin:
@@ -31,6 +29,4 @@ jekyll_admin:
     layouts:
       output: false
     assets:
-      output: false
-    _assets:
       output: false
